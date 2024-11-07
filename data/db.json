@@ -88,14 +88,6 @@
       "characters": "Dinah Drake, Dinah Lance"
     },
     {
-      "id": "marvel-spider",
-      "superhero": "Spider Man",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Peter Parker",
-      "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker"
-    },
-    {
       "id": "marvel-captain",
       "superhero": "Captain America",
       "publisher": "Marvel Comics",
